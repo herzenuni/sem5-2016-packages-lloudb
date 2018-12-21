@@ -24,5 +24,5 @@ class Partisipant:
             
 if __name__ == "__main__":
     Book = Partisipant()
-    Book.Adding("Nastya", "Andreeva", 20, "nastyandreeva7@gmail.com")
+    Book.Adding("Robert", "Zainitdinov", 19, "lloudb@gmail.com")
     Book.Recorder()
